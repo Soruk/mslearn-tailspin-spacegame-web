@@ -1,0 +1,7 @@
+organization=space-game-web-20200116
+projectKey=Soruk_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.4292
+dashboardUrl=https://sonarcloud.io/dashboard?id=Soruk_mslearn-tailspin-spacegame-web
+ceTaskId=AXAMiBbPeci9xI9Hvp3t
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXAMiBbPeci9xI9Hvp3t

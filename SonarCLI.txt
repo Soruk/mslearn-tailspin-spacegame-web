@@ -1,0 +1,11 @@
+sonar-scanner \
+  -Dsonar.projectKey=Soruk_mslearn-tailspin-spacegame-web \
+  -Dsonar.organization=space-game-web-20200116 \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=https://sonarcloud.io \
+  -Dsonar.login=1fcab8865d1b712e5d3269d5a21bd682665cc2c1
+
+
+SONAR_PROJECT_KEY=Soruk_mslearn-tailspin-spacegame-web
+SONAR_ORGANIZATION=pace-game-web-20200116
+SONAR_LOGIN=1fcab8865d1b712e5d3269d5a21bd682665cc2c1
